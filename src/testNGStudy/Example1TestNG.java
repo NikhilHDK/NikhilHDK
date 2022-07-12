@@ -15,5 +15,6 @@ public class Example1TestNG {
 		Thread.sleep(2000);
 		driver.close();
 		System.out.println("Hi Git Hub");
+		System.out.println("Bye git hub");
   }
 }
