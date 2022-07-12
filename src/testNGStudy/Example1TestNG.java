@@ -14,5 +14,6 @@ public class Example1TestNG {
 		driver.get("https://kite.zerodha.com/");
 		Thread.sleep(2000);
 		driver.close();
+		System.out.println("Hi Git Hub");
   }
 }
