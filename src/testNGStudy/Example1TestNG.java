@@ -17,5 +17,6 @@ public class Example1TestNG {
 		System.out.println("Hi Git Hub");
 		System.out.println("Bye git hub");
 		System.out.println("YO git HUB");
+		System.out.println("New GitHUB");
   }
 }
